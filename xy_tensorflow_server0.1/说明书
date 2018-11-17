@@ -1,0 +1,5 @@
+在树莓派运行自己的模型
+开机自启ten.desktop
+ten.desktop 在~/.config/autostart/ten.desktop
+其它所有文件放在~/xy_deep_leanring/下即可开机自启
+

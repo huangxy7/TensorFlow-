@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=example
+Comment=My Python Program
+Exec=sh /home/pi/xy_deep_learning/run_tensorflow_server.sh &
+Icon=/home/pi/xy_deep_learning/1.jpg
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
