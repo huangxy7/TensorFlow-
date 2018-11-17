@@ -1,3 +1,4 @@
 # TensorFlow-
 在树莓派上利用的Python编写服务器预热模型，利用蟒脚本调用树莓派的摄像头拍照后利用外壳脚本传图片到服务器的模型识别分类利用耳机播放结果
-参考博客https://blog.csdn.net/weixin_42364977配置环境和设置相关的配置
+博客参考https://blog.csdn.net/weixin_42364977配置环境设置状语从句：相关的配置
+注意：本项目缺少名为retrained_labels.pb的模型太大放不上去我的百度云有。
